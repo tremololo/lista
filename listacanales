@@ -1,0 +1,28 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  LA LIGA" tvg-logo="http://starplus.club:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WXjgp3U-TyP3k35t82cqD5g.png" group-title="DEPORTES PREMIUM HD/SD",MOVISTAR  LA LIGA
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/78845.ts
+#EXTINF:-1 tvg-id="ESPN 2 Sur Arg" tvg-name="DEP SD:  FOX SPORTS 2 (ARG)" tvg-logo="http://boxdigital.xyz:8080/images/a08404f4d9fb0e3d9b54e314ac30dd70.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD:  FOX SPORTS 2 (ARG)
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36756.ts
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="DEP SD: MOVISTAR GOLF" tvg-logo="http://starplus.club:8080/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40Juk8PqGyiH68nAAfB1EMHa2bqP0wgdkSlKy18UHCc2kkEZ4HM4eG2DPad2BTO1dkc.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD: MOVISTAR GOLF
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36809.ts
+#EXTINF:-1 tvg-id="Fox Sports (Fox Sports Col)" tvg-name="DEP SD: FOX SPORTS 1 (COL)" tvg-logo="http://starplus.club:8080/images/mg9e4VnU5MiobcDarwnBsc21pFf6dO3vZTSEklJy66w.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD: FOX SPORTS 1 (COL)
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36748.ts
+#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEP SD: BEIN SPORTS HD USA" tvg-logo="http://starplus.club:8080/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40JtDQvQkS1sxUkbtn07DUbDITrDmMALlorNxqWYQq-N0MUwljA-_wyGnNbJAG3iU7c.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD: BEIN SPORTS HD USA
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36829.ts
+#EXTINF:-1 tvg-id="Fox Sports (Cono Norte)" tvg-name="DEP SD: FOX SPORTS 1 (MEX)" tvg-logo="http://starplus.club:8080/images/mg9e4VnU5MiobcDarwnBsc21pFf6dO3vZTSEklJy66w.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD: FOX SPORTS 1 (MEX)
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36766.ts
+#EXTINF:-1 tvg-id="ESPN Sur Arg" tvg-name="DEP SD: ESPN DEPORTES" tvg-logo="http://starplus.club:8080/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40LUEOfSiFfJEJ35v6MenNkd8zHU7WmBlm2K-r0c-CTLxOw2nvCpyvTde7vNDT2mYEg.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD: ESPN DEPORTES
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/38043.ts
+#EXTINF:-1 tvg-id="Movistar Deportes" tvg-name="DEP SD: MOVISTAR LA LIGA (OPC 2)" tvg-logo="http://starplus.club:8080/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WXjgp3U-TyP3k35t82cqD5g.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD: MOVISTAR LA LIGA (OPC 2)
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36817.ts
+#EXTINF:-1 tvg-id="ESPN 2 Sur Arg" tvg-name="DEP SD: ESPN 2 (ARG)" tvg-logo="http://starplus.club:8080/images/064u-jvSx2_LW32XFoo86zwRH21mfrzzQEKZdKxQwuXGJkvswFe-d-SFD4xax5w_-6cd4TRdAUYZhen9OhEr-s_ij4jWkcf681n9yoHPjOE.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD: ESPN 2 (ARG)
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36784.ts
+#EXTINF:-1 tvg-id="Fox Sports 3 (Col)" tvg-name="DEP SD: FOX SPORTS 3 (COL)" tvg-logo="http://starplus.club:8080/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjC0nHhgbAG094hqh2HDgMjp65zDCHyyrqZvKOpNBSPArSMhRskhF_D1_yuQdc70eBiDSLvS6tjQ-JLzseFVXdiRxONBUKS_-xI5yruYI7CUI.png" group-title="DEPORTES PREMIUM HD/SD",DEP SD: FOX SPORTS 3 (COL)
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36752.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: KIDS tv" tvg-logo="http://boxdigital.xyz:8080/images/271ddf829afeece44d8732757fba1a66.png" group-title="INFANTIL PREMIUM",KIDS: KIDS tv
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36400.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIDS: KIDS tv 2" tvg-logo="http://boxdigital.xyz:8080/images/6848d756da66e55b42f79c0728e351ad.png" group-title="INFANTIL PREMIUM",KIDS: KIDS tv 2
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36401.ts
+#EXTINF:-1 tvg-id="" tvg-name="KIDS SD : NICK" tvg-logo="http://boxdigital.xyz:8080/images/a3bbf374d18acf8982ce47cc5cbe3104.png" group-title="INFANTIL PREMIUM",KIDS SD : NICK
+http://starplus.club:8080/jellyflix/XnVyxA7V4S/36311.ts
